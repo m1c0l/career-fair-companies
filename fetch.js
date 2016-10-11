@@ -1,5 +1,6 @@
 // Run in JS console on the Career Center career fair event page's website
 // For some reason this has a small bug with the duplicate consecutive Sandia entries; I just fix that manually
+// Remember to show all companies on one page before running this
 var companies = {};
 companies.nameArr = document.getElementsByClassName('lst-cl_name');
 companies.websiteArr = document.getElementsByClassName('lst-cl_website');
