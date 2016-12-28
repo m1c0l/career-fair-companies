@@ -1,0 +1,78 @@
+#Winter 2017 Career Fairs
+
+##Engineering and Technical Fair Day 1
+
+Location and Time: Ackerman Grand Ballroom on Wed., Jan 25 from 10-3
+
+Companies:
+- [A9.COM](http://bit.ly/A9UCLA)
+- [Adobe](http://www.adobe.com/)
+- [Alcon](http://www.alcon.com/)
+- [Amazon](http://www.amazon.jobs/team-category/university-recruiting)
+- [Ambarella Corp](http://www.ambarella.com/)
+- [Arconic](http://www.arconic.com/)
+- [ARETE ASSOCIATES](http://www.arete.com/)
+- [Arista Networks, Inc.](http://www.arista.com/)
+- [BD (Becton, Dickinson & Company)](http://www.bd.com/)
+- [Bloomberg LP](http://www.bloomberg.com/careers)
+- [Boston Scientific Corporation](http://www.bostonscientific.com/careers)
+- [Centerfield Media](http://www.centerfield.com/)
+- [Central Intelligence Agency](http://www.cia.gov/)
+- [Clover Network Inc.](http://clover.com/)
+- [E*TRADE Financial](https://www.etradecareers.com/)
+- [Factual](http://www.factual.com/)
+- [Gigamon](https://www.gigamon.com/)
+- [Google](http://google.com/students)
+- [Granite International (GE Power Services Affiliate)](http://gsinc.com/)
+- [IXL Learning](http://www.ixl.com/)
+- [Lam Research Corporation](http://lamresearch.com/)
+- [Laserfiche](http://www.laserfiche.com/jobs)
+- [Lieberman Research Worldwide](http://www.lrwonline.com/)
+- [Lutron Electronics](http://www.lutron.com/)
+- [Marine Officer Programs](http://www.marines.com/officer)
+- [Medtronic](http://www.medtronic.com/careers)
+- [MeridianLink](http://www.meridianlink.com/)
+- [Metropolitan Water District](http://mwdh2o.com/)
+- [Motorola Solutions](http://www.motorolasolutions.com/)
+- [Myers & Sons Construction, LP](http://www.myers-sons.com/)
+- [NAVAIR](http://www.navair.navy.mil/nawcwd)
+- [PlayStation](http://www.playstationnetwork.com/careers)
+- [Redfin](http://www.redfin.com/)
+- [Samsung Research America (SRA)](http://www.sra.samsung.com/)
+- [Sandia National Laboratories](http://www.sandia.gov/careers)
+- [SSL/Space Systems Loral](http://www.sslmda.com/)
+- [Symantec Corporation](http://www.symantec.com/)
+- [Teradata](http://www.teradata.com/)
+- [Tesoro Companies, Inc.](http://www.tsocorp.com/)
+- [Thales](https://www.thalesgroup.com/en)
+- [TrueCar](https://www.truecar.com/#/)
+- [Veritas Technologies, LLC.](http://www.veritas.com/)
+- [Verizon Digital Media Services](http://www.verizondigitalmedia.com/)
+- [ViaSat, Inc.](http://www.viasat.com/)
+- [VMware](http://www.vmware.com/)
+- [Western Digital](http://www.wdc.com/)
+- [Workday](http://www.workday.com/college)
+- [Yahoo! Inc.](http://www.yahoo.com/)
+
+
+##Engineering and Technical Fair Day 2
+
+Location and Time: Ackerman Grand Ballroom on Thurs., Jan 26 from 10-3
+
+Companies:
+- [Amazon Lab126](http://www.amazon.jobs/team-category/university-recruiting)
+- [AppFolio](http://www.appfolio.com/jobs)
+- [BD (Becton, Dickinson & Company)](http://www.bd.com/)
+- [Bluebeam Software, Inc.](http://www.bluebeam.com/)
+- [FM Global](http://www.fmglobalcareers.com/university)
+- [Granite International (GE Power Services Affiliate)](http://gsinc.com/)
+- [Laserfiche](http://www.laserfiche.com/jobs)
+- [Mead & Hunt, Inc.](http://meadhunt.com/)
+- [Myers & Sons Construction, LP](http://www.myers-sons.com/)
+- [Procore Technologies](https://www.procore.com/)
+- [Sandia National Laboratories](http://www.sandia.gov/careers)
+- [Siemens Corporation](http://www.usa.siemens.com/)
+- [TrueCar](https://www.truecar.com/#/)
+- [Uber](https://www.uber.com/careers/)
+- [ViaSat, Inc.](http://www.viasat.com/)
+- [WRKSHP](http://wearewrkshp.com/)
