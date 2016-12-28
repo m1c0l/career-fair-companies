@@ -1,5 +1,7 @@
 #Winter 2017 Career Fairs
 
+[Click here to jump to Engineering and Technical Fair Day 2](#engineering-and-technical-fair-day-2)
+
 ##Engineering and Technical Fair Day 1
 
 Location and Time: Ackerman Grand Ballroom on Wed., Jan 25 from 10-3
