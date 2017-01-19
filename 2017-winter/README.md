@@ -2,6 +2,14 @@
 
 [Click here to jump to Engineering and Technical Fair Day 2](#engineering-and-technical-fair-day-2)
 
+##Companies attending both days
+- [Granite International (GE Power Services Affiliate)](http://gsinc.com/)
+- [Laserfiche](http://www.laserfiche.com/jobs)
+- [Myers & Sons Construction, LP](http://www.myers-sons.com/)
+- [Sandia National Laboratories](http://www.sandia.gov/careers)
+- [TrueCar](https://www.truecar.com/#/)
+- [ViaSat, Inc.](http://www.viasat.com/)
+
 ##Engineering and Technical Fair Day 1
 
 Location and Time: Ackerman Grand Ballroom on Wed., Jan 25 from 10-3
