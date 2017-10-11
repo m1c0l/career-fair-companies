@@ -15,7 +15,6 @@ Location and time: Covel, Grand Horizon Room (3rd floor) on Tues., Oct. 17 7-9pm
 - [Oracle America, Inc.](http://www.oracle.com/us/corporate/index.html)
 - [Qualtrics](http://www.qualtrics.com)
 - [Smarkets Inc.](http://www.smarkets.com)
-- [Uber Technologies](http://www.uber.com)
 - [Unity Technologies](http://www.unity3d.com)
 
 ## All companies
