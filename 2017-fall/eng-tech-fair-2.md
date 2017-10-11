@@ -10,7 +10,6 @@
 - [Biotronik, Inc./Micro Systems Engineering, Inc.](http://www.mst.com/msei)
 - [Booz Allen Hamilton](http://www.boozallen.com)
 - [Brandify](http://www.brandify.com)
-- [California Air Resources Board](http://www.arb.ca.gov)
 - [Chevron Corporation](http://careers.chevron.com/default.aspx)
 - [Consensys](https://consensys.net)
 - [DanoneWave](http://www.whitewave.com)
